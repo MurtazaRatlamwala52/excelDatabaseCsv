@@ -1,0 +1,19 @@
+{
+  "name": "xlsxtocsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conversion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "json2csv": "^6.0.0-alpha.2",
+    "mysql2": "^3.2.0",
+    "sequelize": "^6.29.3",
+    "xlsx": "^0.18.5"
+  }
+}
